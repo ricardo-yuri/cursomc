@@ -1,2 +1,2 @@
 # cursomc
-Branch curso de spring
+Repositorio referente ao curso de spring
